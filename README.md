@@ -1,8 +1,8 @@
-![Banner](https://i.imgur.com/sMTduP9.jpg)
+![Banner](https://i.imgur.com/YbJ9Hm2.png)
 
-Vítám vás na mém portfoliu! Tvořím webové stránky, bannery a DISCORD servery. Mým cílem je pomoci vám přinést vaše nápady k životu pomocí moderních designových prvků a uživatelsky přívětivého rozhraní. Pokud hledáte někoho, kdo vám pomůže vytvořit váš nový DISCORD server, webové stránky nebo grafické designy, jsem tu pro vás. Prosím, kontaktujte mě a budu se těšit na spolupráci s vámi!
+Vítejte na mém portfoliu! Specializuji se na tvorbu webových stránek, bannerů a DISCORD serverů. Mým cílem je přinést vaše nápady k životu s moderním designem a uživatelsky přívětivým rozhraním. Potřebujete-li pomoc s vytvořením DISCORD serveru, webové stránky nebo grafickými designy, kontaktujte mě pro spolupráci!
 
-- 🔶 V současné umím HTML, CSS, a .JS.
-- 🔶 V současné době pracuji na tvorbě webových stránek a DISCORD server (někdy i botů) .
-- 🔶 Ve volném čase rád poslouchám písničky, kóduji, čtu a kreslím.
-- 🔶 Zábavný fakt: Můj první řádek kódu nebyl "Hello World!".
+- 🔵 16 y.o.
+- 🔴 HTML, CSS, PHP, JS, SQL
+- 🔵 Chameleon
+- 🔴 Fáze vlevo, nulák vpravo

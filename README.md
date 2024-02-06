@@ -6,4 +6,3 @@ Vítejte na mém portfoliu! Specializuji se na tvorbu webových stránek, banner
 - 🔴 HTML, CSS, PHP, JS, SQL
 - 🔵 Chameleon
 - 🔴 Fáze vlevo, nulák vpravo
-- Test :D

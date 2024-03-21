@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/YbJ9Hm2.png)
 
 ## Zdravím, jsem Jura
-Vítejte na mém portfoliu! Tvořím webové stránky, bannery a DISCORD servery. Potřebujete-li pomoc s vytvořením DISCORD serveru, webové stránky nebo grafickými designy, kontaktujte mě pro spolupráci!
+Vítejte na mém portfoliu! Tvořím webové stránky, bannery a DISCORD servery.
 
 - 🔵 16 y.o.
 - 🔴 HTML, CSS, PHP, JS, SQL

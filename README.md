@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/YbJ9Hm2.png)
+<img src="https://i.imgur.com/YbJ9Hm2.png" alt="Banner" width="60%" />
 
 ## 👋 Zdravím, jsem Jura
 Vítejte na mém portfoliu! Tvořím webové stránky, bannery a DISCORD servery.

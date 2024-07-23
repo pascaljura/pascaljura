@@ -1,5 +1,4 @@
-
-    <h2>👋 Zdravím, jsem Jura</h2>
+ <h2>👋 Zdravím, jsem Jura</h2>
     <ul>
 ◾ 17 y.o. <br>◾ HTML, CSS, PHP, JS, SQL <br>
 ◾ https://www.alba-rosa.cz/ <br>

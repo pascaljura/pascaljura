@@ -6,7 +6,7 @@
     </ul>
     <h2>📊 GitHub statistiky</h2>
     <a href="https://github.com/pascaljura/">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=pascaljura&show_icons=true&hide_border=true&title_color=e81224&icon_color=000000&text_color=0078d7&bg_color=ffffff00&hide_title=true" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=pascaljura&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=true" />
     </a>
        <h2>💫 Ostatní</h2>
     <a href="https://www.buymeacoffee.com/pascal.jura" target="_blank">

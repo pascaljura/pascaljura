@@ -1,4 +1,4 @@
-<a href="https://github.com/pascaljura/"><img src="https://i.imgur.com/YbJ9Hm2.png" alt="pascal.jura Banner" width="60%" /> </a>
+
     <h2>👋 Zdravím, jsem Jura</h2>
     <ul>
 ◾ 17 y.o. <br>◾ HTML, CSS, PHP, JS, SQL <br>

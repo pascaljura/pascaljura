@@ -1,5 +1,7 @@
 # 💫 About Me:
-⬛ 17. y.o.<br>⬛ HTML5, CSS3, PHP, JS, SQL, 
+🚀 • Moderní weby na míru<br>
+🎯 • Kompletní řešení pro vaší firmu<br>
+💻 • Web, hosting, doména – vše zařídím, 
 
 
 ## 🌐 Socials:
